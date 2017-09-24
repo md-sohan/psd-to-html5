@@ -1,0 +1,72 @@
+*{margin:0;padding:0}
+body{}
+h1,h2,h3,h4,h5,h6{text-transform: uppercase}
+.col-md-3 p{color:#fff;}
+.col-md-3 a{text-decoration: none;}
+ /*-- Services-- */
+.col-lg-12 p{}
+.col-lg-12 {margin-bottom: 30px}
+.col-lg-12 img{margin-bottom: 10px}
+.col-md-4 img{padding:20px;margin-right:5px}
+.rectangle{margin-top:10px;padding:27px}
+
+.about-bg{background:#95E1D3;margin-top:50px;margin-bottom:-65px;}
+.about-bottom{color:#fff;padding:30px;float:left;border-right: 1px solid #ddd;padding-right: 70px;}
+.about-bottom p,h2{font-weight: bold;text-align:center}
+.call-to-action{}
+
+/*amazing service*/
+.row_one{border-bottom:1px solid #E5E5E5;margin-top:30px}
+.row_two{margin-top:30px}
+.amaing-service{margin-top:130px;}
+.single-promo-item{position: relative;padding-left: 45px;margin-top:10px;padding:20px}
+.single-promo-item i.fa{position:absolute;left:0;top:0;color:#95E1D3;}
+
+
+/*unique design*/
+
+.uniqe-img{padding:100px}
+.smal-mob{position:inherit;left:100;}
+/*story about us*/
+.service-left-img{}
+.service-photo{margin: 5px;border:1px solid #ddd;padding:20px;}
+.service-photo i.fa-picture-o{font-size: 16px;font-weight: bold}
+.service-photo i.fa-arrow-down{color:#95E1D3;float:right}
+.service-photo i.fa-angle-down{color:#95E1D3;float:right}
+.service-photo i.fa-sliders{font-size: 16px;font-weight: bold}
+.service-photo i.fa-bullseye{font-size: 16px;font-weight: bold}
+.service-content{margin: 5px;border:1px solid #ddd;padding:20px}
+
+.bg-light{margin-top:}
+.about-footer{background-color:#E5E5E5;padding:20px;margin-top:20px }
+.fa-arrow-left{margin-top:60px}
+.fa-arrow-right{margin-top:60px}
+/*team member*/
+.our-member{position:relative;overflow: hidden}
+.our-member h4{text-align: center;padding:15px 10px 10px 0}
+.our-member p{text-align: center;}
+.team-footer{background-color: #FBFBFB;margin-top:50px;}
+
+/*latest blog*/
+.latest-blog{position:relative;overflow: hidden;border-bottom: 1px solid #ddd;}
+.fa{color:#95e1d3;}
+.open-map{margin-top:50px;background-image: url(img/new/open-map/map.png);width:100%;padding:30px;}
+.tz-gallery img{margin:3px;border:1px solid #ddd;border-radius:7px}
+/*footer*/
+.footer-bg{background:#F8F8F8;}
+.left-footer{margin-top:60px;border-bottom:1px solid #ddd;padding-bottom:40px;}
+.social-media{margin-top:20px;}
+
+
+.subscribe{margin-top:20px;margin-bottom:20px;}
+.middle-footer{font-family: montserrat; margin-top:60px}
+.middle-footer img{margin:15px 15px 20px 0;}
+.media-body p{margin-top:15px;line-height:20px}
+
+.last-footer{margin-top:60px}
+.f-img img{border:1px solid #fff;margin:2px;border-radius:5px;padding:5px}
+
+/*bottom footer*/
+.footer{border-top:1px solid #E5E5E5;margin:20px;padding:20px;}
+
+
